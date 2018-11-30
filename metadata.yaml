@@ -1,11 +1,16 @@
 _repo: The-Wreck-of-the-Royal-Charter-Compiled-from-Authentic-Sources-with-Some-Original-Matter_58364
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58364-h/images/cover.jpg
 creator:
   author:
     agent_name: Fowler, Frank
     gutenberg_agent_id: '8729'
     url: http://www.gutenberg.org/2009/agents/8729
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58364#The-Wreck-of-the-Royal-Charter-Compiled-from-Authentic-Sources-with-Some-Original-Matter
 gutenberg_issued: '2018-11-27'
 gutenberg_type: Text
 identifiers:
